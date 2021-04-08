@@ -14,6 +14,8 @@ import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.bind.annotation.ResponseStatus;
 
+import javax.validation.constraints.NotBlank;
+
 @Controller
 public class MyController {
 
@@ -33,7 +35,7 @@ public class MyController {
   //================================================================================
   @ResponseBody
   @RequestMapping("/GetFirstLastDate")
-  public DatesDTOResponse getFirstLastDate(@RequestParam String currencyName)  {
+  public DatesDTOResponse getFirstLastDate(@RequestParam @NotBlank String currencyName)  {
     return myService.getFirstLastDate(currencyName);
   }
 
@@ -43,9 +45,9 @@ public class MyController {
   @ResponseBody
   @RequestMapping("/GetAverageValue")
   public AverageDTOResponse getAverageValue(
-    @RequestParam String currencyName,
-    @RequestParam String startDate,
-    @RequestParam String endDate
+    @RequestParam @NotBlank String currencyName,
+    @RequestParam @NotBlank String startDate,
+    @RequestParam @NotBlank String endDate
   )  {
     return myService.getAverageValue(currencyName, startDate, endDate);
   }
