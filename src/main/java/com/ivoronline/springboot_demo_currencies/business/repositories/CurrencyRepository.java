@@ -1,7 +1,7 @@
-package com.ivoronline.com.springboot_demo_currencies.business.repositories;
+package com.ivoronline.springboot_demo_currencies.business.repositories;
 
-import com.ivoronline.com.springboot_demo_currencies.business.entities.Currency;
-import com.ivoronline.com.springboot_demo_currencies.business.entities.CurrencyId;
+import com.ivoronline.springboot_demo_currencies.business.entities.Currency;
+import com.ivoronline.springboot_demo_currencies.business.entities.CurrencyId;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.CrudRepository;
 

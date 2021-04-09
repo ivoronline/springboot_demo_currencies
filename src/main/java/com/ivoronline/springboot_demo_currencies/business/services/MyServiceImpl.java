@@ -1,9 +1,9 @@
-package com.ivoronline.com.springboot_demo_currencies.business.services;
+package com.ivoronline.springboot_demo_currencies.business.services;
 
-import com.ivoronline.com.springboot_demo_currencies.business.dto.AverageDTOResponse;
-import com.ivoronline.com.springboot_demo_currencies.business.dto.CurrenciesDTOResponse;
-import com.ivoronline.com.springboot_demo_currencies.business.dto.DatesDTOResponse;
-import com.ivoronline.com.springboot_demo_currencies.business.repositories.CurrencyRepository;
+import com.ivoronline.springboot_demo_currencies.business.dto.AverageDTOResponse;
+import com.ivoronline.springboot_demo_currencies.business.dto.CurrenciesDTOResponse;
+import com.ivoronline.springboot_demo_currencies.business.dto.DatesDTOResponse;
+import com.ivoronline.springboot_demo_currencies.business.repositories.CurrencyRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import java.time.LocalDate;
