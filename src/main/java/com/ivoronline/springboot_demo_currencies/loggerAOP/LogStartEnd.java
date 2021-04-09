@@ -1,4 +1,4 @@
-package com.ivoronline.com.springboot_demo_currencies.loggerAOP;
+package com.ivoronline.springboot_demo_currencies.loggerAOP;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;

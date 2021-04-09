@@ -1,4 +1,4 @@
-package com.ivoronline.com.springboot_demo_currencies.loggerAOP;
+package com.ivoronline.springboot_demo_currencies.loggerAOP;
 
 import lombok.extern.slf4j.Slf4j;
 import org.aspectj.lang.ProceedingJoinPoint;
@@ -11,7 +11,7 @@ import org.springframework.stereotype.Component;
 @Component
 public class LogStartEndAspect {
 
-  @Around("@annotation(LogStartEnd)")
+  @Around("@annotation(com.ivoronline.springboot_demo_currencies.loggerAOP.LogStartEnd)")
   public Object logExecutionTime(ProceedingJoinPoint joinPoint) throws Throwable {
 
     //GET METHOD PARAMETERS
