@@ -1,0 +1,50 @@
+My File Appender: 2021-04-09 09:52:19,498 INFO c.i.c.s.SpringbootDemoCurrenciesApplication Starting SpringbootDemoCurrenciesApplication using Java 15.0.2 on DESKTOP-E3Q8OF3 with PID 9052 (C:\Projects\springboot_demo_currencies\target\classes started by igoreta in C:\Projects\springboot_demo_currencies) 
+My File Appender: 2021-04-09 09:52:19,500 INFO c.i.c.s.SpringbootDemoCurrenciesApplication No active profile set, falling back to default profiles: default 
+My File Appender: 2021-04-09 09:52:23,071 INFO c.i.c.s.SpringbootDemoCurrenciesApplication Started SpringbootDemoCurrenciesApplication in 3.921 seconds (JVM running for 4.76) 
+My File Appender: 2021-04-09 09:55:37,681 INFO c.i.c.s.SpringbootDemoCurrenciesApplication Starting SpringbootDemoCurrenciesApplication using Java 15.0.2 on DESKTOP-E3Q8OF3 with PID 16684 (C:\Projects\springboot_demo_currencies\target\classes started by igoreta in C:\Projects\springboot_demo_currencies) 
+My File Appender: 2021-04-09 09:55:37,682 INFO c.i.c.s.SpringbootDemoCurrenciesApplication No active profile set, falling back to default profiles: default 
+My File Appender: 2021-04-09 09:55:41,207 INFO c.i.c.s.SpringbootDemoCurrenciesApplication Started SpringbootDemoCurrenciesApplication in 3.868 seconds (JVM running for 4.486) 
+My File Appender: 2021-04-09 09:56:49,700 INFO c.i.c.s.l.LogStartEndAspect STARTED METHOD: MyController.getAllCurrencyNames() 
+My File Appender: 2021-04-09 09:56:49,749 INFO c.i.c.s.l.LogStartEndAspect ENDED   METHOD: MyController.getAllCurrencyNames() 
+My File Appender: 2021-04-09 10:04:08,962 INFO c.i.c.s.SpringbootDemoCurrenciesApplication Starting SpringbootDemoCurrenciesApplication using Java 15.0.2 on DESKTOP-E3Q8OF3 with PID 10244 (C:\Projects\springboot_demo_currencies\target\classes started by igoreta in C:\Projects\springboot_demo_currencies) 
+My File Appender: 2021-04-09 10:04:08,969 INFO c.i.c.s.SpringbootDemoCurrenciesApplication No active profile set, falling back to default profiles: default 
+My File Appender: 2021-04-09 10:04:13,016 INFO c.i.c.s.SpringbootDemoCurrenciesApplication Started SpringbootDemoCurrenciesApplication in 4.509 seconds (JVM running for 5.285) 
+My File Appender: 2021-04-09 10:31:01,291 INFO c.i.c.s.SpringbootDemoCurrenciesApplication Starting SpringbootDemoCurrenciesApplication using Java 15.0.2 on DESKTOP-E3Q8OF3 with PID 13324 (C:\Projects\springboot_demo_currencies\target\classes started by igoreta in C:\Projects\springboot_demo_currencies) 
+My File Appender: 2021-04-09 10:31:01,293 INFO c.i.c.s.SpringbootDemoCurrenciesApplication No active profile set, falling back to default profiles: default 
+My File Appender: 2021-04-09 10:31:05,364 INFO c.i.c.s.SpringbootDemoCurrenciesApplication Started SpringbootDemoCurrenciesApplication in 4.646 seconds (JVM running for 5.706) 
+My File Appender: 2021-04-09 10:31:51,499 INFO c.i.c.s.l.LogStartEndAspect STARTED METHOD: MyController.getAllCurrencyNames() 
+My File Appender: 2021-04-09 10:31:51,561 INFO c.i.c.s.l.LogStartEndAspect ENDED   METHOD: MyController.getAllCurrencyNames() 
+My File Appender: 2021-04-09 10:42:48,140 INFO c.i.c.s.SpringbootDemoCurrenciesApplication Starting SpringbootDemoCurrenciesApplication using Java 15.0.2 on DESKTOP-E3Q8OF3 with PID 19948 (C:\Projects\springboot_demo_currencies\target\classes started by igoreta in C:\Projects\springboot_demo_currencies) 
+My File Appender: 2021-04-09 10:42:48,142 INFO c.i.c.s.SpringbootDemoCurrenciesApplication No active profile set, falling back to default profiles: default 
+My File Appender: 2021-04-09 10:42:51,982 INFO c.i.c.s.SpringbootDemoCurrenciesApplication Started SpringbootDemoCurrenciesApplication in 4.217 seconds (JVM running for 5.111) 
+My File Appender: 2021-04-09 10:45:28,593 INFO c.i.c.s.l.LogStartEndAspect STARTED METHOD: MyController.getFirstLastDate() 
+My File Appender: 2021-04-09 10:45:28,669 INFO c.i.c.s.l.LogStartEndAspect ENDED   METHOD: MyController.getFirstLastDate() 
+My File Appender: 2021-04-09 10:45:35,167 INFO c.i.c.s.l.LogStartEndAspect STARTED METHOD: MyController.getAverageValue() 
+My File Appender: 2021-04-09 10:45:35,176 INFO c.i.c.s.l.LogStartEndAspect ENDED   METHOD: MyController.getAverageValue() 
+My File Appender: 2021-04-09 11:39:57,390 INFO c.i.c.s.SpringbootDemoCurrenciesApplication Starting SpringbootDemoCurrenciesApplication using Java 15.0.2 on DESKTOP-E3Q8OF3 with PID 13764 (C:\Projects\springboot_demo_currencies\target\classes started by igoreta in C:\Projects\springboot_demo_currencies) 
+My File Appender: 2021-04-09 11:39:57,392 INFO c.i.c.s.SpringbootDemoCurrenciesApplication No active profile set, falling back to default profiles: default 
+My File Appender: 2021-04-09 11:40:01,224 INFO c.i.c.s.SpringbootDemoCurrenciesApplication Started SpringbootDemoCurrenciesApplication in 4.163 seconds (JVM running for 4.989) 
+My File Appender: 2021-04-09 11:41:50,323 INFO c.i.c.s.SpringbootDemoCurrenciesApplication Starting SpringbootDemoCurrenciesApplication using Java 15.0.2 on DESKTOP-E3Q8OF3 with PID 11920 (C:\Projects\springboot_demo_currencies\target\classes started by igoreta in C:\Projects\springboot_demo_currencies) 
+My File Appender: 2021-04-09 11:41:50,325 INFO c.i.c.s.SpringbootDemoCurrenciesApplication No active profile set, falling back to default profiles: default 
+My File Appender: 2021-04-09 11:41:53,165 INFO c.i.c.s.SpringbootDemoCurrenciesApplication Started SpringbootDemoCurrenciesApplication in 3.12 seconds (JVM running for 3.734) 
+My File Appender: 2021-04-09 12:04:23,999 INFO c.i.c.s.SpringbootDemoCurrenciesApplication Starting SpringbootDemoCurrenciesApplication using Java 15.0.2 on DESKTOP-E3Q8OF3 with PID 20436 (C:\Projects\springboot_demo_currencies\target\classes started by igoreta in C:\Projects\springboot_demo_currencies) 
+My File Appender: 2021-04-09 12:04:24,001 INFO c.i.c.s.SpringbootDemoCurrenciesApplication No active profile set, falling back to default profiles: default 
+My File Appender: 2021-04-09 12:04:27,434 INFO c.i.c.s.SpringbootDemoCurrenciesApplication Started SpringbootDemoCurrenciesApplication in 3.71 seconds (JVM running for 4.498) 
+My File Appender: 2021-04-09 12:43:47,545 INFO c.i.s.b.c.MyControllerTest Starting MyControllerTest using Java 15.0.2 on DESKTOP-E3Q8OF3 with PID 18984 (started by igoreta in C:\Projects\springboot_demo_currencies) 
+My File Appender: 2021-04-09 12:43:47,551 INFO c.i.s.b.c.MyControllerTest No active profile set, falling back to default profiles: default 
+My File Appender: 2021-04-09 12:43:50,315 INFO c.i.s.b.c.MyControllerTest Started MyControllerTest in 3.153 seconds (JVM running for 6.226) 
+My File Appender: 2021-04-09 12:44:04,144 INFO c.i.s.b.c.MyControllerTest Starting MyControllerTest using Java 15.0.2 on DESKTOP-E3Q8OF3 with PID 10196 (started by igoreta in C:\Projects\springboot_demo_currencies) 
+My File Appender: 2021-04-09 12:44:04,150 INFO c.i.s.b.c.MyControllerTest No active profile set, falling back to default profiles: default 
+My File Appender: 2021-04-09 12:44:06,490 INFO c.i.s.b.c.MyControllerTest Started MyControllerTest in 2.689 seconds (JVM running for 3.949) 
+My File Appender: 2021-04-09 12:44:28,432 INFO c.i.s.b.c.MyControllerTest Starting MyControllerTest using Java 15.0.2 on DESKTOP-E3Q8OF3 with PID 10044 (started by igoreta in C:\Projects\springboot_demo_currencies) 
+My File Appender: 2021-04-09 12:44:28,437 INFO c.i.s.b.c.MyControllerTest No active profile set, falling back to default profiles: default 
+My File Appender: 2021-04-09 12:44:30,737 INFO c.i.s.b.c.MyControllerTest Started MyControllerTest in 2.653 seconds (JVM running for 3.936) 
+My File Appender: 2021-04-09 12:45:01,971 INFO c.i.s.b.c.MyControllerTest Starting MyControllerTest using Java 15.0.2 on DESKTOP-E3Q8OF3 with PID 17032 (started by igoreta in C:\Projects\springboot_demo_currencies) 
+My File Appender: 2021-04-09 12:45:01,977 INFO c.i.s.b.c.MyControllerTest No active profile set, falling back to default profiles: default 
+My File Appender: 2021-04-09 12:45:04,357 INFO c.i.s.b.c.MyControllerTest Started MyControllerTest in 2.703 seconds (JVM running for 4.02) 
+My File Appender: 2021-04-09 12:47:11,890 INFO c.i.s.b.c.MyControllerTest Starting MyControllerTest using Java 15.0.2 on DESKTOP-E3Q8OF3 with PID 10852 (started by igoreta in C:\Projects\springboot_demo_currencies) 
+My File Appender: 2021-04-09 12:47:11,895 INFO c.i.s.b.c.MyControllerTest No active profile set, falling back to default profiles: default 
+My File Appender: 2021-04-09 12:47:14,484 INFO c.i.s.b.c.MyControllerTest Started MyControllerTest in 3.003 seconds (JVM running for 4.309) 
+My File Appender: 2021-04-09 12:47:41,032 INFO c.i.s.b.c.MyControllerTest Starting MyControllerTest using Java 15.0.2 on DESKTOP-E3Q8OF3 with PID 16468 (started by igoreta in C:\Projects\springboot_demo_currencies) 
+My File Appender: 2021-04-09 12:47:41,037 INFO c.i.s.b.c.MyControllerTest No active profile set, falling back to default profiles: default 
+My File Appender: 2021-04-09 12:47:43,456 INFO c.i.s.b.c.MyControllerTest Started MyControllerTest in 2.745 seconds (JVM running for 4.027) 
