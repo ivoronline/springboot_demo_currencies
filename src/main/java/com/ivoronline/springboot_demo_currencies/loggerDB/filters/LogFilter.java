@@ -1,7 +1,7 @@
-package com.ivoronline.com.springboot_demo_currencies.loggerDB.filters;
+package com.ivoronline.springboot_demo_currencies.loggerDB.filters;
 
-import com.ivoronline.com.springboot_demo_currencies.loggerDB.entities.Log;
-import com.ivoronline.com.springboot_demo_currencies.loggerDB.repositories.LogRepository;
+import com.ivoronline.springboot_demo_currencies.loggerDB.entities.Log;
+import com.ivoronline.springboot_demo_currencies.loggerDB.repositories.LogRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.context.SecurityContextHolder;
 import org.springframework.security.core.userdetails.UserDetails;
@@ -18,7 +18,8 @@ import java.time.LocalDate;
 @Component
 public class LogFilter extends OncePerRequestFilter {
 
-  @Autowired LogRepository logRepository;
+  @Autowired
+  LogRepository logRepository;
 
   @Override
   public void doFilterInternal(HttpServletRequest request, HttpServletResponse response, FilterChain chain)

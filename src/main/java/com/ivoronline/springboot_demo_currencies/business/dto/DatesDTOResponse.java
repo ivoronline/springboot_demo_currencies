@@ -1,4 +1,4 @@
-package com.ivoronline.com.springboot_demo_currencies.business.dto;
+package com.ivoronline.springboot_demo_currencies.business.dto;
 
 import java.time.LocalDate;
 

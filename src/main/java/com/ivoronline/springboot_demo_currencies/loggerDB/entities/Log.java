@@ -1,4 +1,4 @@
-package com.ivoronline.com.springboot_demo_currencies.loggerDB.entities;
+package com.ivoronline.springboot_demo_currencies.loggerDB.entities;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
