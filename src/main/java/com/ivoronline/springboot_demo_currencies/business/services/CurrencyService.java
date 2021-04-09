@@ -1,7 +1,7 @@
-package com.ivoronline.com.springboot_demo_currencies.business.services;
+package com.ivoronline.springboot_demo_currencies.business.services;
 
-import com.ivoronline.com.springboot_demo_currencies.business.entities.Currency;
-import com.ivoronline.com.springboot_demo_currencies.business.repositories.CurrencyRepository;
+import com.ivoronline.springboot_demo_currencies.business.entities.Currency;
+import com.ivoronline.springboot_demo_currencies.business.repositories.CurrencyRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.web.reactive.function.client.WebClient;
@@ -11,7 +11,8 @@ import java.util.List;
 @Service
 public class CurrencyService {
 
-  @Autowired CurrencyRepository currencyRepository;
+  @Autowired
+  CurrencyRepository currencyRepository;
 
   //=========================================================================
   // STORE CURRENCIES

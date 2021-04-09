@@ -1,9 +1,9 @@
-package com.ivoronline.com.springboot_demo_currencies.business.controllers;
+package com.ivoronline.springboot_demo_currencies.business.controllers;
 
-import com.ivoronline.com.springboot_demo_currencies.business.dto.AverageDTOResponse;
-import com.ivoronline.com.springboot_demo_currencies.business.dto.CurrenciesDTOResponse;
-import com.ivoronline.com.springboot_demo_currencies.business.dto.DatesDTOResponse;
-import com.ivoronline.com.springboot_demo_currencies.business.services.MyService;
+import com.ivoronline.springboot_demo_currencies.business.dto.AverageDTOResponse;
+import com.ivoronline.springboot_demo_currencies.business.dto.CurrenciesDTOResponse;
+import com.ivoronline.springboot_demo_currencies.business.dto.DatesDTOResponse;
+import com.ivoronline.springboot_demo_currencies.business.services.MyService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.stereotype.Controller;
