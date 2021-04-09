@@ -1,4 +1,4 @@
-package com.ivoronline.com.springboot_demo_currencies.business.entities;
+package com.ivoronline.springboot_demo_currencies.business.entities;
 
 import javax.persistence.Embeddable;
 import java.io.Serializable;
