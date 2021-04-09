@@ -4,6 +4,7 @@ import com.ivoronline.com.springboot_demo_currencies.business.dto.AverageDTOResp
 import com.ivoronline.com.springboot_demo_currencies.business.dto.CurrenciesDTOResponse;
 import com.ivoronline.com.springboot_demo_currencies.business.dto.DatesDTOResponse;
 import com.ivoronline.com.springboot_demo_currencies.business.services.MyService;
+import com.ivoronline.com.springboot_demo_currencies.loggerAOP.LogStartEnd;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.stereotype.Controller;
@@ -24,6 +25,7 @@ public class MyController {
   //================================================================================
   // GET ALL CURRENCY NAMES
   //=================================================================================
+  @LogStartEnd
   @ResponseBody
   @RequestMapping("/GetAllCurrencyNames")
   public CurrenciesDTOResponse getAllCurrencyNames()  {
@@ -33,6 +35,7 @@ public class MyController {
   //================================================================================
   // GET FIRST LAST DATE
   //================================================================================
+  @LogStartEnd
   @ResponseBody
   @RequestMapping("/GetFirstLastDate")
   public DatesDTOResponse getFirstLastDate(@RequestParam @NotBlank String currencyName)  {
@@ -42,6 +45,7 @@ public class MyController {
   //================================================================================
   // GET AVERAGE VALUE
   //================================================================================
+  @LogStartEnd
   @ResponseBody
   @RequestMapping("/GetAverageValue")
   public AverageDTOResponse getAverageValue(
